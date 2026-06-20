@@ -19,3 +19,10 @@ Yes, using:
 ```text
 /recipes edit
 ```
+
+
+## Where can I get support?
+
+Join the Discord:
+
+https://discord.gg/nMRZWW4MDS

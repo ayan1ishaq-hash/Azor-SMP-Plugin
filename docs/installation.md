@@ -24,3 +24,10 @@ Weapon recipe files are generated inside:
 ```text
 plugins/AzorPlugin/weapons/<weapon_id>/recipe.yml
 ```
+
+
+## Need Help?
+
+Join the Discord:
+
+https://discord.gg/nMRZWW4MDS

@@ -56,6 +56,13 @@ pom.xml
 *.java
 ```
 
+
+## Discord
+
+Join the Azor Plugin Discord:
+
+[https://discord.gg/nMRZWW4MDS](https://discord.gg/nMRZWW4MDS)
+
 ## License
 
 This project is proprietary and all rights are reserved. See [`LICENSE`](LICENSE).
