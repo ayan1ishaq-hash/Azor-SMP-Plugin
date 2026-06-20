@@ -1,0 +1,16 @@
+# Public example only. Values may differ from private builds.
+weapons:
+  scythe:
+    enabled: true
+  katana:
+    enabled: true
+  jesters-grin:
+    enabled: true
+  demon-sword:
+    enabled: true
+  champions-blade:
+    enabled: true
+  ice-bow:
+    enabled: true
+  yumi:
+    enabled: true

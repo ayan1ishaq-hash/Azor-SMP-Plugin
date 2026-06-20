@@ -1,0 +1,23 @@
+# Keep private source out of public repository
+src/
+pom.xml
+*.java
+*.class
+target/
+build/
+out/
+.idea/
+.vscode/
+*.iml
+
+# Sensitive files
+.env
+*.key
+*.pem
+*.p12
+*.jks
+*.keystore
+
+# Release jars are allowed only if you intentionally publish them
+# Remove the next line if you want to commit jars in releases/
+# *.jar

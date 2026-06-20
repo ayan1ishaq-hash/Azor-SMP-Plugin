@@ -1,0 +1,2 @@
+Put compiled public plugin jars here only if you want to publish downloads.
+Do not put source code here.
