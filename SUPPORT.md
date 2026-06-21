@@ -15,4 +15,4 @@ Do not share private license keys, tokens, server IPs, or sensitive configs publ
 
 For community support, join:
 
-https://discord.gg/nMRZWW4MDS
+https://discord.gg/3k8tCs76Ya
